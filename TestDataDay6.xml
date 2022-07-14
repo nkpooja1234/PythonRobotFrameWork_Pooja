@@ -1,0 +1,8 @@
+<dockerAppTesting>
+
+
+
+    <popularCourses>Data Science Course,Artificial Intelligence Course,Machine Learning Certification Course,Python Certification</popularCourses>
+    <url>https://intellipaat.com/</url>
+    <browser>Chrome</browser>
+</dockerAppTesting>

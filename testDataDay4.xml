@@ -1,0 +1,21 @@
+<webucatorTestData>
+
+    <chromePath>/Users/00003983/bin/chromedriver.exe</chromePath>
+    <url>https://www.webucator.com/</url>
+    <pageTitle>Online and Onsite Instructor-led Training Classes | Webucator</pageTitle>
+    <featureCourses_header>Feature Courses</featureCourses_header>
+    <featureCourse_Text>sub Text</featureCourse_Text>
+    <featureCourse1_Title1>Apache Tomcat Administration for Windows Training</featureCourse1_Title1>
+    <featureCourse1_Duration1>3 days</featureCourse1_Duration1>
+    <featureCourse1_Class1>Next Live Class</featureCourse1_Class1>
+    <featureCourse1_Title2>Introduction to Microsoft Excel</featureCourse1_Title2>
+    <featureCourse1_Duration2>1 day</featureCourse1_Duration2>
+    <featureCourse1_Class2>Next Live Class</featureCourse1_Class2>
+    <featureCourse1_Title3>Oracle PL/SQL Training</featureCourse1_Title3>
+    <featureCourse1_Duration3>5 days</featureCourse1_Duration3>
+    <featureCourse1_Class3>Next Live Class</featureCourse1_Class3>
+    <logoalt>Webucator Logo</logoalt>
+    <About_us>About Us</About_us>
+    <About_us_sublinks>Contact Us,About Webucator,Client Testimonials,Client List,Privacy Policy,In The Community,Train for Us,Cancellation Policy,Make a Payment</About_us_sublinks>
+
+</webucatorTestData>

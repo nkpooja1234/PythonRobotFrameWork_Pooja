@@ -1,0 +1,15 @@
+<feekit>
+    <chromepath></chromepath>
+    <appurl>https://www.fleekitsolutions.com/</appurl>
+    <browser>Chrome</browser>
+    <FleekTopMenuBars>About,Services,Verticals,Portfolio,Blogs,Contact Us</FleekTopMenuBars>
+    <ServicesSubMenuOptions>Core QA Services,Test automation,Mobile app testing,Performance testing,Accessibility Testing,Design and Development,Digital Marketing</ServicesSubMenuOptions>
+    <FirstName>Pooja</FirstName>
+    <LastName>Naik</LastName>
+    <Email>Nkpooja@gmail.com</Email>
+    <Phone>8767564535</Phone>
+    <Subject>Workshop</Subject>
+    <Message>Learning python</Message>
+
+
+</feekit>

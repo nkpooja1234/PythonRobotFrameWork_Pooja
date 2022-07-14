@@ -1,0 +1,6 @@
+datasources:057e15ce54d1f757bcae32f09f7761b04bce4dc7
+commandlineoptions:9f8598a690c7367accf83ead504756ddd374acc9
+suitesfrom:no-suites-from-option
+file:5a5421f6ded63d7aaf9eaa3258e2aee7012251c9
+--suite Suites.CheckBoxDay8
+--suite Suites.TableTestDay8

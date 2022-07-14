@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 5.0.1 (Python 3.10.4 on win32)" generated="20220706 16:08:22.256" rpa="false" schemaversion="3">
+<suite id="s1" name="Testrobot" source="C:\users\00003983\development\Day1PythonPgm\robotFrameWork\Testrobot.robot">
+<test id="s1-t1" name="User must sign in to check out" line="11">
+<kw name="Open Browser" library="SeleniumLibrary">
+<arg>https://www.google.com/</arg>
+<arg>chrome</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<msg timestamp="20220706 16:08:22.757" level="INFO">Opening browser 'chrome' to base url 'https://www.google.com/'.</msg>
+<status status="PASS" starttime="20220706 16:08:22.757" endtime="20220706 16:08:27.159"/>
+</kw>
+<kw name="Close Browser" library="SeleniumLibrary">
+<doc>Closes the current browser.</doc>
+<status status="PASS" starttime="20220706 16:08:27.187" endtime="20220706 16:08:30.123"/>
+</kw>
+<status status="PASS" starttime="20220706 16:08:22.742" endtime="20220706 16:08:30.123"/>
+</test>
+<doc>This is some basic info about the whole suite</doc>
+<status status="PASS" starttime="20220706 16:08:22.256" endtime="20220706 16:08:30.123"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Testrobot">Testrobot</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
